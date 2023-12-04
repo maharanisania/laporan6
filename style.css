@@ -1,0 +1,37 @@
+body{
+  background-color: #344a72;
+  font-family: 'poppins',sans-serif;
+}
+
+.sign-up-box{
+  width: 360px;
+  height: 620px;
+  margin: auto;
+  background-color: white;
+  border-radius: 3px;
+}
+
+h1{
+  text-align: center;
+  padding-top: 15px;
+}
+h4{
+  text-align: center;
+}
+from{
+  width: 300px;
+  margin-top: 20px;
+}
+
+form label{
+  display: flex;
+  margin-top: 18px;
+}
+from input{
+  width: 100px;
+  padding: 7px;
+  border: none;
+  border: 1px solid gray;
+  border-radius: 6px;
+  outline: none;
+}
